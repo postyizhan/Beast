@@ -8,6 +8,7 @@ A Paper 1.12.2 fork aims to provide extreme performance, bug fixes, and improvem
 
 ## Features
 
+
 - **Beast is a fork of [Paper-1.12.2](https://github.com/PaperMC/Paper)** designed for performance, new fun and exciting gameplay features.
 - **Contains [Lithium](https://github.com/CaffeineMC/lithium-fabric) patches** that optimizing many areas in game.
 - **Bug fixes** for several Minecraft issues.
